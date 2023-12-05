@@ -1,0 +1,4 @@
+# Tiempo de CPU Tipo Instrucción Proceso/Despachador Valor CP
+3    PULL    Dispatcher     102    2
+3    LOAD    ./Procesos/    Dispatcher     102    2
+4    EXEC    ./Procesos/    Dispatcher     104    2
